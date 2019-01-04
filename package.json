@@ -1,0 +1,14 @@
+{
+  "name": "furtherjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "numbers-dates-and-times.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah French",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.0.1"
+  }
+}
